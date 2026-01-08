@@ -32,14 +32,18 @@ This project interfaces the **ECUMaster Black ECU** with an **ESP32** to create 
 7. Connect can RX to pin 21 and can tx to pin 4 
 8. Enjoy real-time data on-screen!
 
----
+
 
 ### 📦 Dependencies
 
 lvgl 8.3.0
+
 esp32 3.3.5 by espressif (boardmanager)
+
 emucan
+
 driver/twai
+
 --- 
 
 
